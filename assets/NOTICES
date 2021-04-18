@@ -1857,6 +1857,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 async
 collection
 crypto
+mime
 stream_channel
 typed_data
 
@@ -12081,6 +12082,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 path_provider
+share
 
 Copyright 2017, the Flutter project authors. All rights reserved.
 
